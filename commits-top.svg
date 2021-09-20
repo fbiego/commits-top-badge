@@ -48,6 +48,6 @@
       <text x="200" y="70" class="text" data-testid="text" id="text14-1">commits.top/{{country}}.html</text>
    </g>
    <g id="g12-1-5" transform="matrix(0.47821229,0,0,0.50878031,227.54343,39.863363)" style="fill:#ffffff">
-      <text x="200" y="70" class="text" data-testid="text" id="text14-1-09" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#ffffff">{{error}}</text>
+      <text x="200" y="70" class="text" data-testid="text" id="text14-1-09">{{error}}</text>
    </g>
 </svg>
