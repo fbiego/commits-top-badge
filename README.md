@@ -1,6 +1,8 @@
 # commits-top-badge
 A profile badge for the 'most-active-github-users-counter'
 
+You should already be listed on [`commits.top`](https://commits.top/)
+
 ## Usage
 
 ```
