@@ -16,8 +16,8 @@ A profile badge for the 'most-active-github-users-counter'
 
 the hex string should exclude the '#' (hash) character
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=8945ae)
+![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=8945ae)
+![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 
 
