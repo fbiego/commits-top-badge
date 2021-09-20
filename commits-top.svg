@@ -13,7 +13,7 @@
    <style id="style4">
 		.text {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #00ff00;
+            fill: #{{txtcol}};
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
     @keyframes fadeInAnimation {
@@ -24,8 +24,8 @@
         opacity: 1;
       }
     }</style>
-   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#001b1f" stroke-opacity="1" stroke="#e4e2e2" fill="#000" />
-   <circle style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="43.683655" r="31.804115" />
+   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#{{bgcol}}" stroke-opacity="1" stroke="#{{strcol}}" fill="#000" />
+   <circle style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#{{txtcol}}f;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="43.683655" r="31.804115" />
    <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,1.7915705)" style="fill:#f9f9f9">
       <text x="167" y="40" text-anchor="middle" class="text" data-testid="text" id="text10-1-5">{{rank}}</text>
    </g>
