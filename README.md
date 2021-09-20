@@ -4,7 +4,9 @@ A profile badge for the 'most-active-github-users-counter'
 You should already be listed on [`commits.top`](https://commits.top/)
 
 ## Usage
-
+Specify the following
+- `user` - your github username
+- `country` - your country
 ```
 ![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)
 ```
