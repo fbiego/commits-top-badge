@@ -12,7 +12,7 @@
    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="697" id="namedview16" showgrid="false" inkscape:zoom="1.9733334" inkscape:cx="217.3184" inkscape:cy="39.214088" inkscape:window-x="-8" inkscape:window-y="760" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
    <style id="style4">
 		.text {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #{{txtcol}};
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
