@@ -42,7 +42,7 @@
       <text x="150" y="40" class="text" data-testid="text" id="text10">Country: {{Country}}</text>
    </g>
    <g id="g8-95" transform="translate(-13.620713,41.172611)" style="fill:#f9f9f9">
-      <text x="150" y="40" class="text" data-testid="text" id="text10-1" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#f9f9f9">Commits: {{commits}}</text>
+      <text x="150" y="40" class="text" data-testid="text" id="text10-1">Commits: {{commits}}</text>
    </g>
    <g id="g12-1" transform="matrix(0.65437939,0,0,0.60934378,79.295303,52.137384)" style="fill:#ffffff">
       <text x="200" y="70" class="text" data-testid="text" id="text14-1" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#ffffff">commits.top/{{country}}.html</text>
