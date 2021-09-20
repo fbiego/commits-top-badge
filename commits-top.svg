@@ -36,7 +36,7 @@
       <text x="150" y="40" class="text" data-testid="text" id="text10-1-0">Most active GitHub users</text>
    </g>
    <g id="g8-0" transform="translate(-13.620713,0.9174415)" style="fill:#f9f9f9">
-      <text x="150" y="40" class="text" data-testid="text" id="text10-4" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#f9f9f9">User: {{user}}</text>
+      <text x="150" y="40" class="text" data-testid="text" id="text10-4">User: {{user}}</text>
    </g>
    <g id="g8" transform="translate(-13.620713,20.647757)" style="fill:#f9f9f9">
       <text x="150" y="40" class="text" data-testid="text" id="text10" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#f9f9f9">Country: {{Country}}</text>
