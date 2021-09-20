@@ -8,3 +8,9 @@ A profile badge for the 'most-active-github-users-counter'
 ```
 ![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)
 
+## Styling
+#### Colors
+- 'bg_color' - hex string
+- 'text_color' - hex string
+- 'border_color' - hex string
+the hex string should exclude the '#' (hash) character
