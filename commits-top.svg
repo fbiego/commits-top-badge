@@ -25,11 +25,11 @@
       }
     }</style>
    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#{{bgcol}}" stroke-opacity="1" stroke="#{{strcol}}" fill="#222" />
-   <circle style="opacity:1;fill:#dddddd;fill-opacity:0;fill-rule:evenodd;stroke:#{{txtcol}};stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="48.683655" r="31.804115" />
-   <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,1.7915705)" style="fill:#eeeeee">
+   <circle style="opacity:1;fill:#dddddd;fill-opacity:0;fill-rule:evenodd;stroke:#{{txtcol}};stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="46.683655" r="31.804115" />
+   <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,-1.7915705)" style="fill:#eeeeee">
       <text x="167" y="45" text-anchor="middle" class="text" data-testid="text" id="text10-1-5">{{rank}}</text>
    </g>
-   <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,40.360535)" style="fill:#eeeeee">
+   <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,39.360535)" style="fill:#eeeeee">
       <text x="150" y="78" class="text" data-testid="text" id="text14-1-0">Rank</text>
    </g>
    <g id="g8-95-4" transform="translate(-21.620713,-17.560423)" style="fill:#eeeeee">
