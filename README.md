@@ -10,7 +10,14 @@ A profile badge for the 'most-active-github-users-counter'
 
 ## Styling
 #### Colors
-- 'bg_color' - hex string
-- 'text_color' - hex string
-- 'border_color' - hex string
+- `bg_color` - hex string
+- `text_color` - hex string
+- `border_color` - hex string
+
 the hex string should exclude the '#' (hash) character
+```
+![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=8945ae)
+```
+![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=8945ae)
+
+
