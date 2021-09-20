@@ -35,13 +35,13 @@
    <g id="g8-95-4" transform="translate(-21.620713,-17.560423)">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1-0" style="fill:#eeeeee">Most active GitHub users</text>
    </g>
-   <g id="g8-0" transform="translate(-13.620713,2.9174415)" style="fill:#eeeeee">
+   <g id="g8-0" transform="translate(-21.620713,2.9174415)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-4">User: {{user}}</text>
    </g>
-   <g id="g8" transform="translate(-13.620713,24.647757)" style="fill:#eeeeee">
+   <g id="g8" transform="translate(-21.620713,24.647757)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10">Country: {{Country}}</text>
    </g>
-   <g id="g8-95" transform="translate(-13.620713,47.172611)" style="fill:#eeeeee">
+   <g id="g8-95" transform="translate(-21.620713,47.172611)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1">Commits: {{commits}}</text>
    </g>
    <!--
