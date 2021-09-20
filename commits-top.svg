@@ -32,8 +32,8 @@
    <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,40.360535)" style="fill:#eeeeee">
       <text x="150" y="78" class="text" data-testid="text" id="text14-1-0">Rank</text>
    </g>
-   <g id="g8-95-4" transform="translate(-21.620713,-17.560423)">
-      <text x="150" y="40" class="text" data-testid="text" id="text10-1-0" style="fill:#eeeeee">Most active GitHub users</text>
+   <g id="g8-95-4" transform="translate(-21.620713,-17.560423)" style="fill:#eeeeee">
+      <text x="150" y="40" class="text" data-testid="text" id="text10-1-0">Most active GitHub users</text>
    </g>
    <g id="g8-0" transform="translate(-21.620713,2.9174415)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-4">User: {{user}}</text>
