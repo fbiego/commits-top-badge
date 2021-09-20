@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" fill="none" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="commits-top.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="400" height="125" viewBox="0 0 400 125" fill="none" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="commits-top.svg">
    <metadata id="metadata20">
       <rdf:RDF>
          <cc:Work rdf:about="">
@@ -24,30 +24,30 @@
         opacity: 1;
       }
     }</style>
-   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#{{bgcol}}" stroke-opacity="1" stroke="#{{strcol}}" fill="#000" />
-   <circle style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#{{txtcol}};stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="43.683655" r="31.804115" />
-   <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,1.7915705)" style="fill:#f9f9f9">
-      <text x="167" y="40" text-anchor="middle" class="text" data-testid="text" id="text10-1-5">{{rank}}</text>
+   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#{{bgcol}}" stroke-opacity="1" stroke="#{{strcol}}" fill="#222" />
+   <circle style="opacity:1;fill:#dddddd;fill-opacity:0;fill-rule:evenodd;stroke:#{{txtcol}};stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="48.683655" r="31.804115" />
+   <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,1.7915705)" style="fill:#eeeeee">
+      <text x="167" y="45" text-anchor="middle" class="text" data-testid="text" id="text10-1-5">{{rank}}</text>
    </g>
-   <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,44.360535)" style="fill:#ffffff">
-      <text x="150" y="70" class="text" data-testid="text" id="text14-1-0">Rank</text>
+   <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,44.360535)" style="fill:#eeeeee">
+      <text x="150" y="78" class="text" data-testid="text" id="text14-1-0">Rank</text>
    </g>
    <g id="g8-95-4" transform="translate(-21.620713,-17.560423)">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1-0">Most active GitHub users</text>
    </g>
-   <g id="g8-0" transform="translate(-13.620713,0.9174415)" style="fill:#f9f9f9">
+   <g id="g8-0" transform="translate(-13.620713,2.9174415)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-4">User: {{user}}</text>
    </g>
-   <g id="g8" transform="translate(-13.620713,20.647757)" style="fill:#f9f9f9">
+   <g id="g8" transform="translate(-13.620713,24.647757)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10">Country: {{Country}}</text>
    </g>
-   <g id="g8-95" transform="translate(-13.620713,41.172611)" style="fill:#f9f9f9">
+   <g id="g8-95" transform="translate(-13.620713,47.172611)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1">Commits: {{commits}}</text>
    </g>
-   <g id="g12-1" transform="matrix(0.65437939,0,0,0.60934378,79.295303,52.137384)" style="fill:#ffffff">
+   <g id="g12-1" transform="matrix(0.65437939,0,0,0.60934378,79.295303,66.137384)" style="fill:#eeeeee">
       <text x="200" y="70" class="text" data-testid="text" id="text14-1">commits.top/{{country}}.html</text>
    </g>
-   <g id="g12-1-5" transform="matrix(0.47821229,0,0,0.50878031,227.54343,39.863363)" style="fill:#ffffff">
-      <text x="200" y="70" class="text" data-testid="text" id="text14-1-09">{{error}}</text>
+   <g id="g12-1-5" transform="matrix(0.47821229,0,0,0.50878031,227.54343,44.863363)" style="fill:#eeeeee">
+      <text x="220" y="70" class="text" data-testid="text" id="text14-1-09">{{error}}</text>
    </g>
 </svg>
