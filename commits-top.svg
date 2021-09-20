@@ -27,10 +27,10 @@
    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" id="rect6" style="fill-opacity:1;fill:#001b1f" stroke-opacity="1" stroke="#e4e2e2" fill="#000" />
    <circle style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4155" cx="61.632957" cy="43.683655" r="31.804115" />
    <g id="g8-95-42" transform="matrix(1.2567388,0,0,1.2567388,-147.6608,1.7915705)" style="fill:#f9f9f9">
-      <text x="167" y="40" text-anchor="middle" class="text" data-testid="text" id="text10-1-5" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#f9f9f9">{{rank}}</text>
+      <text x="167" y="40" text-anchor="middle" class="text" data-testid="text" id="text10-1-5">{{rank}}</text>
    </g>
    <g id="g12-1-0" transform="matrix(0.69605883,0,0,0.69605883,-57.831488,44.360535)" style="fill:#ffffff">
-      <text x="150" y="70" class="text" data-testid="text" id="text14-1-0" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif;fill:#ffffff">Rank</text>
+      <text x="150" y="70" class="text" data-testid="text" id="text14-1-0">Rank</text>
    </g>
    <g id="g8-95-4" transform="translate(-21.620713,-17.560423)">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1-0">Most active GitHub users</text>
