@@ -8,9 +8,9 @@ Specify the following
 - `user` - your github username
 - `country` - your country
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya)
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya)
 
 ## Styling
 #### Colors
@@ -20,8 +20,8 @@ Specify the following
 
 the hex string should exclude the '#' (hash) character
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 ```
-![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 
 
