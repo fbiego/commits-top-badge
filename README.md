@@ -14,9 +14,9 @@ Specify the following
 
 ## Styling
 #### Colors
-- `bg_color` - hex string
-- `text_color` - hex string
-- `border_color` - hex string
+- `bg_color` - background color
+- `text_color` - text color & circle outline
+- `border_color` - border color
 
 the hex string should exclude the '#' (hash) character
 ```
