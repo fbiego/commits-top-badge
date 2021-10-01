@@ -44,11 +44,6 @@
    <g id="g8-95" transform="translate(-21.620713,47.172611)" style="fill:#eeeeee">
       <text x="150" y="40" class="text" data-testid="text" id="text10-1">Commits: {{commits}}</text>
    </g>
-   <!--
-   <g id="g12-1" transform="matrix(0.65437939,0,0,0.60934378,79.295303,66.137384)" style="fill:#eeeeee">
-      <text x="200" y="70" class="text" data-testid="text" id="text14-1">commits.top/{{country}}.html</text>
-   </g>
-   -->
    <g id="g12-1-5" transform="matrix(0.47821229,0,0,0.50878031,227.54343,44.863363)" style="fill:#eeeeee">
       <text x="220" y="70" class="text" data-testid="text" id="text14-1-09">{{error}}</text>
    </g>
