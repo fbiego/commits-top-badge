@@ -1,7 +1,7 @@
 # commits-top-badge
 A profile badge for the 'most-active-github-users-counter'
 
-You should already be listed on [`commits.top`](https://commits.top/)
+You should already be listed on [`committers.top`](https://committers.top/)
 
 ## Usage
 Specify the following
@@ -22,6 +22,6 @@ the hex string should exclude the '#' (hash) character
 ```
 ![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 ```
-![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
+![committers.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
 
 
