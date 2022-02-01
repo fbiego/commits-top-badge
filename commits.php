@@ -50,8 +50,8 @@ function getCountry($country, $user)
         $name = str_replace('"', '\"', $name);
         
         if ($user == $username){
-			echo $rank .PHP_EOL;
-			echo $commits .PHP_EOL;
+			$GLOBALS['commits'] = $commits;
+			$GLOBALS['rank'] = $rank;
 			break;
 		}
 
