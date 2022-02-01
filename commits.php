@@ -50,7 +50,8 @@ function getCountry($country, $user)
         $name = str_replace('"', '\"', $name);
         
         if ($user == $username){
-		
+			echo $rank .PHP_EOL;
+			echo $commits .PHP_EOL;
 			break;
 		}
 
@@ -62,6 +63,16 @@ if ($_GET['user'] && $_GET['country']){
 	
 	$country = $_GET['country'];
 	$user = $_GET['user'];
+	
+	if ($_GET['bg_color']){
+		$bgcol = $_GET['bg_color'];
+	}
+	if ($_GET['text_color']){
+		$txtcol = $_GET['txt_color'];
+	}
+	if ($_GET['border_color']){
+		$strcol = $_GET['border_color'];
+	}
 	
 	$svg = file_get_contents("commits-top.svg");
 	header('Content-Type: image/svg+xml');
