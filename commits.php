@@ -53,6 +53,9 @@ function getCountry($country, $user)
 if ($_GET['user'] && $_GET['country']){
 	getCountry($_GET['country'], $_GET['user']);
 	
+	$country = $_GET['country'];
+	$user = $_GET['user'];
+	
 	$svg = file_get_contents("commits-top.svg");
 	header('Content-Type: image/svg+xml');
 	echo $svg.str_replace(['{{user}}', '{{Country}}', '{{commits}}', '{{rank}}', '{{bgcol}}', '{{strcol}}', '{{txtcol}}'], [$user, $country, $commits, $rank, $bgcol, $strcol, $txtcol]);
