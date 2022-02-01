@@ -1,5 +1,11 @@
 <?php
 
+$rank = '0';
+$commits = '0';
+$bgcol = "000000";
+$strcol = "FFFFFF";
+$txtcol = "FFFFFF";
+
 
 function getCountry($country, $user)
 {
