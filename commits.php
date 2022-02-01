@@ -5,6 +5,7 @@ $commits = '0';
 $bgcol = "000000";
 $strcol = "FFFFFF";
 $txtcol = "FFFFFF";
+$error = "";
 
 
 function getCountry($country, $user)
@@ -64,7 +65,7 @@ if ($_GET['user'] && $_GET['country']){
 	
 	$svg = file_get_contents("commits-top.svg");
 	header('Content-Type: image/svg+xml');
-	echo $svg.str_replace(['{{user}}', '{{Country}}', '{{commits}}', '{{rank}}', '{{bgcol}}', '{{strcol}}', '{{txtcol}}'], [$user, $country, $commits, $rank, $bgcol, $strcol, $txtcol]);
+	echo str_replace(['{{user}}', '{{Country}}', '{{commits}}', '{{rank}}', '{{bgcol}}', '{{strcol}}', '{{txtcol}}', '{{error}}'], [$user, $country, $commits, $rank, $bgcol, $strcol, $txtcol, $error], $svg);
 }
 
 ?>
