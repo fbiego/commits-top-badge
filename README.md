@@ -10,7 +10,7 @@ Specify the following
 ```
 ![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya)
 ```
-![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=000000)
 
 ## Styling
 #### Colors
@@ -20,8 +20,8 @@ Specify the following
 
 the hex string should exclude the '#' (hash) character
 ```
-![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
+![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=333333&text_color=77fe89&border_color=89452e)
 ```
-![committers.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=555555&text_color=77fe89&border_color=89452e)
+![committers.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=333333&text_color=77fe89&border_color=89452e)
 
 
