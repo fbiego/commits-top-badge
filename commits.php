@@ -51,7 +51,7 @@ function getCountry($country, $user)
         
         if ($user == $username){
 			$GLOBALS['commits'] = $commits;
-			$GLOBALS['rank'] = $rank;
+			$GLOBALS['rank'] = str_replace(".", "", $rank);
 			break;
 		}
 
@@ -61,7 +61,7 @@ function getCountry($country, $user)
 if ($_GET['user'] && $_GET['country']){
 	getCountry($_GET['country'], $_GET['user']);
 	
-	$country = $_GET['country'];
+	$country = ucfirst($_GET['country']);
 	$user = $_GET['user'];
 	
 	if ($_GET['bg_color']){
