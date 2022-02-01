@@ -1,7 +1,7 @@
 <?php
 
-$rank = '0';
-$commits = '0';
+$rank = '-';
+$commits = 'Not listed';
 $bgcol = "000000";
 $strcol = "FFFFFF";
 $txtcol = "FFFFFF";
