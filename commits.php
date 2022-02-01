@@ -68,7 +68,7 @@ if ($_GET['user'] && $_GET['country']){
 		$bgcol = $_GET['bg_color'];
 	}
 	if ($_GET['text_color']){
-		$txtcol = $_GET['txt_color'];
+		$txtcol = $_GET['text_color'];
 	}
 	if ($_GET['border_color']){
 		$strcol = $_GET['border_color'];
